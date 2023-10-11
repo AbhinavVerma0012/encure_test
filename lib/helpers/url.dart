@@ -1,0 +1,1 @@
+const String positionServiceURL = "https://machinetest.encureit.com/locationapi.php";
